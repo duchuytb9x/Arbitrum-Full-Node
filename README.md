@@ -12,7 +12,8 @@ NODE TYPE | CPU     | RAM      | SSD     |
 ## Important links for Arbitrum:
 - [Website](https://arbitrum.io/)
 - [Explorer](https://arbiscan.io)
-- [Twitter](https://twitter.com/arbitrum)
+- [Twitter](
+https://twitter.com/arbitrum)
 - [Discord](https://discord.gg/arbitrum)
 - [Github](https://github.com/OffchainLabs)
 
@@ -25,7 +26,7 @@ read [alchemy](./alchemy.md)
 ## 2a) Scripted installation.
 
 ``` 
-wget -O arbitrum.sh https://raw.githubusercontent.com/bxdoan/Arbitrum-Node/main/arbitrum.sh && chmod +x arbitrum.sh && ./arbitrum.sh
+wget -O arbitrum.sh https://raw.githubusercontent.com/duchuytb9x/Arbitrum-Full-Node/main/arbitrum.sh && chmod +x arbitrum.sh && ./arbitrum.sh
 ```
 ![image](https://user-images.githubusercontent.com/101462877/198361610-ff82d18b-9ca6-41be-8b7e-fc5381b5869e.png)
 
